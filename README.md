@@ -64,3 +64,22 @@ function farwell() {
 
 ## Usage
   1. Clone the repository:
+     ```
+     git clone https://github.com/ElochukwuOrji/upSkillTask6-JavaScript.git
+     ```
+  2. Run the script:
+     ```
+     node script.js
+     ```
+
+## Expected Output
+```
+Hi, my name is Elochukwu Orji
+Coding
+Hello, Bruce!
+Discussion completed.
+Goodbye!
+```
+
+## Author
+Elochukwu Orji
